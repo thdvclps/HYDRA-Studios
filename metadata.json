@@ -1,0 +1,5 @@
+{
+  "name": "HYDRA Studios",
+  "description": "A professional AI-powered application to generate and edit images using text prompts and existing images, built with React and Gemini.",
+  "requestFramePermissions": []
+}
